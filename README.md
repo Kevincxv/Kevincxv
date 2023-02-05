@@ -1,4 +1,4 @@
-<h1 align="center">Kevin Camcho</h1>
+<h1 align="center">Kevin Camacho</h1>
 <h3 align="center">Aspiring backend software engineer pursuing a Bachelor's degree at Florida International University. Committed to utilizing technical abilities to create impactful solutions in dynamic environments.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/4649464/skatter-programmer_still_2x.gif?compress=1&resize=400x300">
 
