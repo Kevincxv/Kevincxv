@@ -18,7 +18,7 @@
     🎓 I'm currently studying at <strong>Florida International University: B.S in Computer Science(GPA: 3.8/4.0)</strong><br /><br />
     🌱 I'm actively learning <strong>Advanced Data Structures, Computer Architecture, and Machine Learning Techniques</strong><br /><br />
     👯 I'm open to collaborative projects in <strong>Full-Stack Development, AI Model Training and Mobile Developmet</strong><br /><br />
-    📚 I'm certified in <strong>Python Data Structures, C#, Java, JavaScript, HTML & CSS</strong></br /><br />
+    📚 I'm certified in <strong>Python, C#, Java, JavaScript, React, Next.js, Tailwind, Typescript, MySQl, HTML & CSS</strong></br /><br />
 </div>
 <br />
 <div align="center">
