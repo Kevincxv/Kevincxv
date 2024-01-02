@@ -1,10 +1,10 @@
 <p align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kennethcxv.visitor-badge&left_color=red&right_color=green&left_text=visitors">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kevincxv.visitor-badge&left_color=red&right_color=green&left_text=visitors">
 </p>
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=008000&center=true&vCenter=true&random=false&width=500&lines=Hi+There!%F0%9F%91%8B;I'm+Kenneth+Camacho" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3500&pause=1000&color=008000&center=true&vCenter=true&random=false&width=500&lines=Hello!%F0%9F%91%8B;I'm+Kevin+Camacho" alt="Typing SVG" />
     </a>
 </h1>
 
@@ -16,7 +16,7 @@
 <br />
 <div align="center">
     🎓 I'm currently studying at <strong>Florida International University: B.S in Computer Science(GPA: 3.8/4.0)</strong><br /><br />
-    🌱 I'm currently learning <strong>Advanced Data Structures, Computer Architecture, and Machine Learning Techniques</strong><br /><br />
+    🌱 I'm actively learning <strong>Advanced Data Structures, Computer Architecture, and Machine Learning Techniques</strong><br /><br />
     👯 I'm open to collaborative projects in <strong>Full-Stack Development, AI Model Training and Mobile Developmet</strong><br /><br />
     📚 I'm certified in <strong>Python Data Structures, C#, Java, JavaScript, HTML & CSS</strong></br /><br />
 </div>
