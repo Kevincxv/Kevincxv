@@ -8,7 +8,7 @@
     </a>
 </h1>
 
-<h1 align="center" margin-bottom:'10px'>A Software Engineer</h1>
+<h1 align="center" margin-bottom:'10px'>Full Stack Software Engineer</h1>
 
 <br />
 
